@@ -1,0 +1,37 @@
+.city {
+  background-color: yellowgreen;
+  color: darkviolet;
+  border: 2px solid darkred;
+  margin: 20px;
+  padding: 20px;
+}
+
+.note {
+  font-size: 120%;
+  color: purple;
+}
+
+#myname {
+  background-color: lightpink;
+  color: darkblue;
+  padding: 40px;
+  text-align: center;
+}
+
+#myHeader {
+  background-color: lightgray;
+  color: red;
+  padding: 40px;
+  text-align: center;
+}
+
+.city {
+  background-color: lightpink;
+  color: purple;
+  padding: 20px;
+} 
+
+.wk{
+	width:50%;
+	height:400px;
+}
